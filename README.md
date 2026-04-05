@@ -7,7 +7,7 @@ A **simple and persistent day counter desktop app** built with Python and Tkinte
 
 ---
 
-## Features
+## Features 
 
 - Enter any number of days as a target.  
 - Start a timer that counts the days passed.  
