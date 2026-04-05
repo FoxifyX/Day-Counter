@@ -33,4 +33,4 @@ A **simple and persistent day counter desktop app** built with Python and Tkinte
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/day-counter-timer.git
+git clone https://github.com/FoxifyX/day-counter-timer.git
