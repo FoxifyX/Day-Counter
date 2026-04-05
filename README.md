@@ -24,7 +24,7 @@ A **simple and persistent day counter desktop app** built with Python and Tkinte
 
 ## Screenshots
 
-![Screenshot](screenshot.png)  
+![Screenshot](https://postimg.cc/dhzMqbQj)  
 *Replace `screenshot.png` with your actual app screenshot file.*
 
 ---
